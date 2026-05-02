@@ -33,7 +33,7 @@ Built for security researchers and bug bounty hunters who want to skip the manua
 ```
 OpenLens/
 ├── main.py                  # CLI entry point
-├── config.py                # API keys — do not commit with real keys
+├── config.py                # API keys 
 ├── requirements.txt
 ├── modules/
 │   ├── dns_whois.py         # DNS records + WHOIS lookup
